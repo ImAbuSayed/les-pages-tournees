@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/les-pages-tournees/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Les Pages Tournées](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/les-pages-tournees/) |
+| **Get License** | [Secure Licensing Rights for Les Pages Tournées](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/les-pages-tournees/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Regarde-moi, la nuit scintille dans tes yeux
+> On roule au cœur de la ville, c'est mystérieux
+> Ton parfum chic m'enivre, je perds la raison
+> Just you and me, baby, c'est la bonne saison
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
