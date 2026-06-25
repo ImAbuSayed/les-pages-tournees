@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/les-pages-tournees/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Les Pages Tournées](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/les-pages-tournees/) |
+| **Get License** | [Get License For Les Pages Tournées](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/les-pages-tournees/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `8eb3be54873e05d2ce7f286aa1c797d7917bf54844ad0e8e52e7214b5965e433` |
 | **Timestamp** | June 26, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
